@@ -1,14 +1,18 @@
+//더하기
 //type (a: number, b: number) -> number;
 const add = (a, b) => a + b;
 
+//빼기
 // type(a: number, b: number) -> number;
 const substract = (a, b) => a - b;
 
+//곱하기
 // type(a: number, b: number) -> number;
 const multiply = (a, b) => {
   return a * b;
 };
 
+//나누기
 // type(a:number, b:number) -> number;
 const divide = (a, b) => {
   if (b === 0) return 0;
