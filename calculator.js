@@ -19,6 +19,9 @@ const divide = (a, b) => {
   return a / b;
 };
 
+// 무료 버전 나누기
+const divide_for_free = (a, b) => a / b;
+
 // git init - 로컬 레포지토리 만들기
 // git add . - stage로
 // git commit - 로컬 레포지토리에 저장하기
